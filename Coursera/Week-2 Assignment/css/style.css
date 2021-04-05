@@ -15,6 +15,7 @@ p {
   overflow: hidden;
 }
 
+
 #container {
   position: relative;
 }
@@ -47,7 +48,7 @@ p {
 }
 
 #p3 {
- background-color: #E5D198;
+  background-color: #E5D198;
   position: absolute;
   top: 0;
   right: 0;
@@ -62,7 +63,6 @@ p {
 
 .row {
   width: 100%;
-
 }
 
 /********** Large devices only **********/
@@ -106,7 +106,7 @@ p {
   }
   .col-lg-12 {
     width: 100%;
-  } 
+  }
 }
 
 /********** Medium devices only **********/
